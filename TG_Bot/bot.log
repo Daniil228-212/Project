@@ -1,0 +1,46 @@
+2025-06-08 16:09:03,194 - INFO - aiogram.dispatcher - Start polling
+2025-06-08 16:09:03,374 - INFO - aiogram.dispatcher - Run polling for bot @StavkyChetkoBot id=7993755757 - 'Помощник ставочника'
+2025-06-08 16:09:03,439 - INFO - aiogram.event - Update id=952586189 is not handled. Duration 15 ms by bot id=7993755757
+2025-06-08 16:09:03,728 - INFO - aiogram.event - Update id=952586181 is handled. Duration 297 ms by bot id=7993755757
+2025-06-08 16:09:03,764 - INFO - aiogram.event - Update id=952586182 is handled. Duration 328 ms by bot id=7993755757
+2025-06-08 16:12:50,362 - INFO - aiogram.dispatcher - Polling stopped
+2025-06-08 16:12:50,630 - INFO - aiogram.dispatcher - Polling stopped for bot @StavkyChetkoBot id=7993755757 - 'Помощник ставочника'
+2025-06-08 16:19:05,226 - INFO - aiogram.dispatcher - Start polling
+2025-06-08 16:19:05,378 - INFO - aiogram.dispatcher - Run polling for bot @StavkyChetkoBot id=7993755757 - 'Помощник ставочника'
+2025-06-08 16:19:06,266 - INFO - undetected_chromedriver.patcher - patching driver executable C:\Users\Никита\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-08 16:19:24,014 - INFO - aiogram.event - Update id=952586192 is not handled. Duration 0 ms by bot id=7993755757
+2025-06-08 16:19:24,055 - INFO - aiogram.event - Update id=952586193 is not handled. Duration 0 ms by bot id=7993755757
+2025-06-08 16:19:24,251 - INFO - aiogram.event - Update id=952586191 is handled. Duration 18812 ms by bot id=7993755757
+2025-06-08 16:19:34,973 - INFO - aiogram.event - Update id=952586194 is not handled. Duration 0 ms by bot id=7993755757
+2025-06-08 16:30:56,540 - INFO - aiogram.dispatcher - Polling stopped
+2025-06-08 16:30:56,786 - INFO - aiogram.dispatcher - Polling stopped for bot @StavkyChetkoBot id=7993755757 - 'Помощник ставочника'
+2025-06-08 16:31:04,439 - INFO - aiogram.dispatcher - Start polling
+2025-06-08 16:31:04,597 - INFO - aiogram.dispatcher - Run polling for bot @StavkyChetkoBot id=7993755757 - 'Помощник ставочника'
+2025-06-08 16:31:16,696 - INFO - aiogram.event - Update id=952586195 is handled. Duration 202 ms by bot id=7993755757
+2025-06-08 16:32:38,301 - INFO - aiogram.dispatcher - Polling stopped
+2025-06-08 16:32:38,565 - INFO - aiogram.dispatcher - Polling stopped for bot @StavkyChetkoBot id=7993755757 - 'Помощник ставочника'
+2025-06-08 16:32:45,835 - INFO - aiogram.dispatcher - Start polling
+2025-06-08 16:33:06,879 - INFO - aiogram.dispatcher - Polling stopped
+2025-06-08 16:39:20,383 - INFO - aiogram.dispatcher - Start polling
+2025-06-08 16:39:35,544 - INFO - aiogram.dispatcher - Run polling for bot @StavkyChetkoBot id=7993755757 - 'Помощник ставочника'
+2025-06-08 16:39:35,764 - INFO - aiogram.event - Update id=952586198 is handled. Duration 172 ms by bot id=7993755757
+2025-06-08 16:39:47,402 - INFO - aiogram.event - Update id=952586199 is handled. Duration 78 ms by bot id=7993755757
+2025-06-08 16:39:50,555 - INFO - aiogram.event - Update id=952586200 is handled. Duration 187 ms by bot id=7993755757
+2025-06-08 16:39:52,799 - INFO - aiogram.event - Update id=952586201 is not handled. Duration 16 ms by bot id=7993755757
+2025-06-08 16:40:04,881 - INFO - aiogram.event - Update id=952586202 is not handled. Duration 0 ms by bot id=7993755757
+2025-06-08 16:40:31,357 - INFO - aiogram.event - Update id=952586203 is handled. Duration 63 ms by bot id=7993755757
+2025-06-08 16:40:33,577 - INFO - aiogram.event - Update id=952586204 is handled. Duration 62 ms by bot id=7993755757
+2025-06-08 16:40:36,990 - INFO - aiogram.event - Update id=952586205 is handled. Duration 78 ms by bot id=7993755757
+2025-06-08 16:40:56,495 - INFO - aiogram.dispatcher - Polling stopped
+2025-06-08 16:40:56,754 - INFO - aiogram.dispatcher - Polling stopped for bot @StavkyChetkoBot id=7993755757 - 'Помощник ставочника'
+2025-06-08 16:41:27,143 - INFO - aiogram.dispatcher - Start polling
+2025-06-08 16:41:27,846 - INFO - aiogram.dispatcher - Run polling for bot @StavkyChetkoBot id=7993755757 - 'Помощник ставочника'
+2025-06-08 16:41:30,704 - INFO - aiogram.event - Update id=952586206 is handled. Duration 171 ms by bot id=7993755757
+2025-06-08 16:41:33,425 - INFO - aiogram.event - Update id=952586207 is handled. Duration 109 ms by bot id=7993755757
+2025-06-08 16:44:32,586 - INFO - aiogram.dispatcher - Polling stopped
+2025-06-08 16:44:32,853 - INFO - aiogram.dispatcher - Polling stopped for bot @StavkyChetkoBot id=7993755757 - 'Помощник ставочника'
+2025-06-08 16:44:38,177 - INFO - aiogram.dispatcher - Start polling
+2025-06-08 16:44:38,324 - INFO - aiogram.dispatcher - Run polling for bot @StavkyChetkoBot id=7993755757 - 'Помощник ставочника'
+2025-06-08 16:44:38,594 - INFO - aiogram.event - Update id=952586208 is handled. Duration 218 ms by bot id=7993755757
+2025-06-08 16:44:57,407 - INFO - aiogram.dispatcher - Polling stopped
+2025-06-08 16:44:57,683 - INFO - aiogram.dispatcher - Polling stopped for bot @StavkyChetkoBot id=7993755757 - 'Помощник ставочника'
